@@ -8,7 +8,6 @@ Key Features:
 ✅ LLM-Based Query Handling – Uses Llama 2 for answers when document data is insufficient.
 ✅ Efficient Information Retrieval – Combines FAISS for semantic search and LLM for contextual understanding.
 
-
 Implementation Process of RAG-Based Financial Report Analyzer
 Step-by-Step Process:
 1️⃣ Load & Preprocess Financial Report
