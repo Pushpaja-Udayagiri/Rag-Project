@@ -32,3 +32,5 @@ If no relevant document found, query Llama 2 for a generated response.
 
 If document is used: Return retrieved content.
 If Llama 2 is used: Generate LLM-based response
+
+![Image](https://github.com/user-attachments/assets/15670ea0-9977-43a9-81c4-ee7794cab2e5)
